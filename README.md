@@ -3,7 +3,7 @@ Hi 👋, I'm Nassim Afrete, a Software Engineer 👨‍💻 working at France T�
 
 🔭 I am passionate about web development, new technologies and learning things like Machine Learning 🤖
 
-🌱 I’m currently learning the NextJS 12.3 with react 18 | new MongoDB (v6) features
+🌱 I’m currently learning the NextJS 13 with react 18 | new MongoDB (v6) features
 
 ## 🌐 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nassimafrete) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nass.afr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nafrete) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nassim.afrete) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9780777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nass190) 
